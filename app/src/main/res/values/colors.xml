@@ -22,7 +22,15 @@
     <color name="pantoneTransparent">#6605c3de</color>
     <color name="pantoneDarkTransparent">#8c017787</color>
     <color name="pantone331c">#05c3de</color>
-
+    
+    <!--GREEN COLOR-->
+    <color name="Darkest">#131f12</color>
+    <color name="DarkLight1">#44ad49</color><!--3DAEBD-->
+    <color name="DarkLight2">#305e36</color>
+    <color name="DarkLight3">#249e34</color>
+    <color name="DarkTransparant1">#83a387</color>
+    <color name="DarkTransparent2">#384536</color>
+    <color name="Lightest">#cfe3cc</color>
 
     <!--My Color-->
     <color name="a">#128C7E</color>
